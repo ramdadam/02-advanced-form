@@ -1,0 +1,12 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/api/users"
+  },
+  "response": {
+    "status": 204,
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/users"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "name": "Ela"
+      },
+      {
+        "name": "Tobi"
+      },
+      {
+        "name": "Alina"
+      },
+      {
+        "name": "Mo"
+      },
+      {
+        "name": "Frank"
+      },
+      {
+        "name": "Isabell"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
