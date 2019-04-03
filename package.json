@@ -9,6 +9,11 @@
     "react-scripts": "2.1.8"
   },
   "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-react-app": "^3.0.8",
+    "eslint-plugin-flowtype": "^3.4.2",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-react": "^7.12.4",
     "wiremock-standalone": "^2.20.0-1"
   },
   "scripts": {

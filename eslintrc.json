@@ -1,0 +1,11 @@
+{
+  "extends": ["eslint:recommended", "plugin:react/recommended"],
+  "rules": {
+    "no-console": "warn",
+    "no-case-declarations": "off",
+    "prefer-const": "warn",
+    "prefer-template": "error",
+    "react/destructuring-assignment": "off",
+    "react/jsx-key": "warn"
+  }
+}
