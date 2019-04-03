@@ -21,7 +21,8 @@
     "start:mock": "wiremock --root-dir ./mock --port 8080",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": " ./node_modules/eslint/bin/eslint.js -c eslintrc.json src/"
   },
   "eslintConfig": {
     "extends": "react-app"
