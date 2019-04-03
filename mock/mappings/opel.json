@@ -1,0 +1,22 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/cars/opel"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "name": "Astra",
+        "id": "astra"
+      },
+      {
+        "name": "Vectra",
+        "id": "vectra"
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
